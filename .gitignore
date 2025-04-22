@@ -1,0 +1,4 @@
+
+# Exclure config et venv
+.config_git_push.json
+venv/
